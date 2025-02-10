@@ -174,10 +174,10 @@ Follow the steps down below to get started coding in Python!!!
 <details>
   <summary>Chapter 6️⃣ ⮕ Exercises</summary>
 
- - <b>[String Concatenation Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Questions.ipynb)</b>
+ - <b>[String Concatenation Questions](https://github.com/saglearn/python/blob/master/String_Concatenation_Exercise_Questions.ipynb)</b>
    * <b>[String Concatenation Answers](https://github.com/saglearn/python/blob/master/String_Concatenation_Exercise_Answers.ipynb)</b>
    
- - <b>[Built-In Functions Exercise Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Built_In_Functions_Exercise_Questions.ipynb)</b>
+ - <b>[Built-In Functions Exercise Questions](https://github.com/Tsaglearn/python/blob/master/Built_In_Functions_Exercise_Questions.ipynb)</b>
  
 </details>
 
