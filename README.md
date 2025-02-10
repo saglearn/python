@@ -177,14 +177,9 @@ Follow the steps down below to get started coding in Python!!!
  - <b>[String Concatenation Questions](https://github.com/saglearn/python/blob/master/String_Concatenation_Exercise_Questions.ipynb)</b>
    * <b>[String Concatenation Answers](https://github.com/saglearn/python/blob/master/String_Concatenation_Exercise_Answers.ipynb)</b>
    
- - <b>[Built-In Functions Exercise Questions](https://github.com/Tsaglearn/python/blob/master/Built_In_Functions_Exercise_Questions.ipynb)</b>
+ - <b>[Built-In Functions Exercise Questions](https://github.com/saglearn/python/blob/master/Built_In_Functions_Exercise_Questions.ipynb)</b>
  
 </details>
 
 ---
 
-
-  
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-[![Maintened by - Tanu Nanda Prabhu](https://img.shields.io/badge/Maintained%20by-Tanu%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io/)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
